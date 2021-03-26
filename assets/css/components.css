@@ -1,0 +1,16 @@
+/* Navigation */
+.main-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-nav li {
+    display: inline-block;
+}
+.main-nav a {
+    color: #454545;
+    font-weight: 500;
+    font-size: 0.9rem;
+    padding: 10px 20px;
+    display: inline-block;
+}
